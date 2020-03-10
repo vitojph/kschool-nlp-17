@@ -70,6 +70,8 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - the [Beyond Word Embeddings](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f) series, especially [its Part 2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)
 
+- [The Big Bad NLP Database](https://datasets.quantumstat.com/)
+
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 
 - [Awesome Spanish NLP](https://github.com/dav009/awesome-spanish-nlp)
